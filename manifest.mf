@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: br.com.yahoo.mau_mss.copyqname
+OpenIDE-Module-Localizing-Bundle: br/com/yahoo/mau_mss/copyqname/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.3.1
+
