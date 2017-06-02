@@ -19,7 +19,7 @@ Go to `Tools > Copy Qualified Name` and click.
 - Copy the name to your clipboard
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
